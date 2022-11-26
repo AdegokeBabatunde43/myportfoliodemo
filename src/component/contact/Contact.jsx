@@ -31,7 +31,7 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail class="contact__option-icon"/>
             <h3>Email</h3>
-            <h4>ababatunde220@gmail.com</h4>
+            <h4>ababatunde022@gmail.com</h4>
             <a href="mailto:ababatunde220@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
@@ -43,7 +43,7 @@ const Contact = () => {
           <article className='contact__option'>
             <SiWhatsapp class="contact__option-icon"/>
             <h3>Whatsapp</h3>
-            <h4>ababatunde220@gmail.com</h4>
+            <h4>ababatunde022@gmail.com</h4>
             <a href="https://api.whatsapp.com/send?phone=2348165717300" target="_blank">Send a message</a>
           </article>
         </div>

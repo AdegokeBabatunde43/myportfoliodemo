@@ -11,44 +11,44 @@ const data=[
   {
     id:1,
     image:LEARN,
-    title: 'Social Media',
+    title: 'Facebook',
     github: 'https://github.com/AdegokeBabatunde43/djangomysocial',
     demo: 'https://tundetechhtmlcsssocial1.netlify.app/'
   },
   {
     id:2,
     image:LEARN1,
-    title: 'Review',
+    title: 'Netflix',
     github: 'https://githubhttps://github.com/AdegokeBabatunde43/react-facebook.com',
     demo: 'https://tiny-starship-0ac823.netlify.app/'
   },
   {
     id:3,
     image:LEARN5,
-    title: 'Social Media',
+    title: 'Quiz App',
     github: 'https://github.com',
     demo: 'https://whimsical-pavlova-392619.netlify.app/'
   },
   {
     id:4,
     image:LEARN3,
-    title: 'Caculator',
+    title: 'Developers Blog',
     github: 'https://github.com/AdegokeBabatunde43/react-facebook',
-    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    demo: 'https://ttechblogg.herokuapp.com/'
   },
   {
     id:5,
     image:LEARN2,
-    title: 'Social Media',
+    title: 'Ecommerce Cart Sampling',
     github: 'https://github.com/AdegokeBabatunde43/my-movie-Api-1',
-    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    demo: 'https://myecommercecartdemo.netlify.app/'
   },
   {
     id:6,
     image:LEARN4,
-    title: 'Social Media',
+    title: 'Weather Forecast App',
     github: 'https://github.com/AdegokeBabatunde43/quiz-app',
-    demo: 'https://dreamy-rabanadas-67958e.netlify.app/'
+    demo: 'https://luxury-youtiao-506679.netlify.app/'
   }, 
   {
     id:7,
